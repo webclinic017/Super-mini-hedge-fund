@@ -5,7 +5,7 @@
     :wave: Hiii! I am Mesa. :sparkles:
     <br><br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>:coffee: Contact Me? :point_right: sent me a <a href="mailto: xiaoliyang1994@outlook.com">E-mail</a>
+    <br><br>:coffee: Contact Me? :point_right: sent me a <a href="mailto: 627883197@qq.com">E-mail</a>
   </samp>
 </p>
 
