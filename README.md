@@ -11,10 +11,10 @@
 
 <details>
   <summary><b>:telescope: 2021 ING</b></summary>
-  First-year graduate student at UC Davis, Master of Engineering in CS at HUST, Bachelor of Engineering in SE at HNU. I am good at C/C++, python and Linux. I have passion about algorithm, and also optimized the architecture.
+  
 </details>
 
 <details>
   <summary><b>:telescope: 2020 Summery</b></summary>
-  First-year graduate student at UC Davis, Master of Engineering in CS at HUST, Bachelor of Engineering in SE at HNU. I am good at C/C++, python and Linux. I have passion about algorithm, and also optimized the architecture.
+  
 </details>
