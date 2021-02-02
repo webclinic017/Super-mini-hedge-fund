@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="99afef45926727ffe39dd591b2336a7d.jpeg " width="27px">
+  <img src="MesaCrush/99afef45926727ffe39dd591b2336a7d.jpeg/" width="27px">
   <br><br>
   <samp>
     :wave: Hiii! I am Mesa. :sparkles:
